@@ -1,7 +1,7 @@
-e = 80
-b = 75
-cs = 84
-cp = 79
+e = 80.5
+b = 75.0
+cs = 84.0
+cp = 79.5
 
 print("-------------------- Your Score --------------------")
 print("Foundation English :                ", e, 'คะแนน')
