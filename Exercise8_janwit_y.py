@@ -14,11 +14,11 @@ if username == "devzaa" and password == "1212":
     HW = "3. Huawei Mate 999 Pro       = 65800 บาท"
     OP = "4. OPPO Flip 500G            = 42000 บาท"
     NK = "5. Nokia 3311                =  3300 บาท"
-    ip = 73900
-    ss = 69900
-    hw = 65800
-    op = 42000
-    nk = 3300
+    ip = float(73900)
+    ss = float(69900)
+    hw = float(65800)
+    op = float(42000)
+    nk = float(3300)
     end0 = "==================================="
     end1 = "!! ไม่มีรายการสินค้านี้ !!"
     end2 = ">>กรุณาระบุหมายเลขสินค้าอีกครั้ง<<"
