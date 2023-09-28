@@ -1,4 +1,4 @@
-numm = 5
+numm = int(input("ใส่ตัวเลข: "))
 for row in range(1,numm+1):
     for column in range(1):
         column = " " * (numm-row)
