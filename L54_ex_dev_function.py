@@ -33,7 +33,7 @@ def pr():
     price1 = int(input("First Price : "))
     price2 = int(input("Second Price : "))
     total = price1 + price2
-    print("Total: ", total), " บาท"
+    print("Total: ", total, " บาท")
     return vat(total)
 
 login()
