@@ -21,7 +21,8 @@ def select():
     elif userSelected == 2:
         return pr()
     else:
-        print(select)
+        print(try again !!)
+        return select()
 # --------------------------------------------------------------
 def vat(total):
     #price = int(input("Price (THB) : "))
