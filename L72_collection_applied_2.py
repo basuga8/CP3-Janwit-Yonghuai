@@ -4,7 +4,7 @@ def showBill():
     print("My Food".center(len("My Food")+10,"+"))
     for number in menuList:
         print(number[0], "=", number[1], "บาท")
-        total_p += int(number[1])
+        total_p += float(number[1])
     print("Total:", total_p, "บาท")
 
 while True:
